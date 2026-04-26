@@ -2,8 +2,7 @@ name: Build .NET API
 
 on:
   push:
-    branches:
-      - main
+  pull_request:
   workflow_dispatch:
 
 jobs:
@@ -20,11 +19,8 @@ jobs:
           dotnet-version: 10.0.x
           architecture: x64
 
-      - name: Show .NET info
-        run: dotnet --info
-
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore src/ECommerce.Api/ECommerce.Api.csproj
 
       - name: Build project
-        run: dotnet build --no-restore
+        run: dotnet build src/ECommerce.Api/ECommerce.Api.csproj --configuration Release --no-restore
