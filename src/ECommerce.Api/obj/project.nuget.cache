@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKthlWi2OQs=",
+  "success": true,
+  "projectFilePath": "D:\\a\\EcommerceAPI\\EcommerceAPI\\src\\ECommerce.Api\\ECommerce.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\runneradmin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\runneradmin\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
