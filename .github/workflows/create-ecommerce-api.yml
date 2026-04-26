@@ -1,0 +1,62 @@
+name: Create ECommerce API Project
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  create-project:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: 10.0.x
+          architecture: x64
+
+      - name: Create src folder
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path "src" | Out-Null
+
+      - name: Create ASP.NET Core Web API project
+        shell: pwsh
+        run: |
+          if (Test-Path "src/ECommerce.Api/ECommerce.Api.csproj") {
+            Write-Host "Project already exists. Skipping project creation."
+          }
+          else {
+            dotnet new webapi --use-controllers -n ECommerce.Api -o src/ECommerce.Api
+          }
+
+      - name: Show project files
+        shell: pwsh
+        run: |
+          Get-ChildItem -Recurse src/ECommerce.Api
+
+      - name: Build project
+        shell: pwsh
+        run: |
+          dotnet build src/ECommerce.Api/ECommerce.Api.csproj
+
+      - name: Commit generated project
+        shell: pwsh
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add src/ECommerce.Api
+
+          if (git diff --cached --quiet) {
+            Write-Host "No changes to commit."
+          }
+          else {
+            git commit -m "Create ASP.NET Core Web API project"
+            git push
+          }
