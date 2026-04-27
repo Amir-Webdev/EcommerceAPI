@@ -32,3 +32,37 @@ D:\a\EcommerceAPI\EcommerceAPI\src\ECommerce.Api\obj\Debug\net10.0\refint\EComme
 D:\a\EcommerceAPI\EcommerceAPI\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.pdb
 D:\a\EcommerceAPI\EcommerceAPI\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.genruntimeconfig.cache
 D:\a\EcommerceAPI\EcommerceAPI\src\ECommerce.Api\obj\Debug\net10.0\ref\ECommerce.Api.dll
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\appsettings.Development.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\appsettings.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\ECommerce.Api.staticwebassets.endpoints.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\ECommerce.Api.exe
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\ECommerce.Api.deps.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\ECommerce.Api.runtimeconfig.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\ECommerce.Api.dll
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\ECommerce.Api.pdb
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.csproj.AssemblyReference.cache
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.AssemblyInfoInputs.cache
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.AssemblyInfo.cs
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.csproj.CoreCompileInputs.cache
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.sourcelink.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\scopedcss\bundle\ECommerce.Api.styles.css
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\staticwebassets.build.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\staticwebassets.development.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\swae.build.ex.cache
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerc.4A86E8C6.Up2Date
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.dll
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\refint\ECommerce.Api.dll
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.pdb
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ECommerce.Api.genruntimeconfig.cache
+B:\Work\Amir - WebDev\ECommerceApiCourse\src\ECommerce.Api\obj\Debug\net10.0\ref\ECommerce.Api.dll

@@ -83,32 +83,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\runneradmin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\amir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\a\\EcommerceAPI\\EcommerceAPI\\src\\ECommerce.Api\\ECommerce.Api.csproj",
+      "projectUniqueName": "B:\\Work\\Amir - WebDev\\ECommerceApiCourse\\src\\ECommerce.Api\\ECommerce.Api.csproj",
       "projectName": "ECommerce.Api",
-      "projectPath": "D:\\a\\EcommerceAPI\\EcommerceAPI\\src\\ECommerce.Api\\ECommerce.Api.csproj",
-      "packagesPath": "C:\\Users\\runneradmin\\.nuget\\packages\\",
-      "outputPath": "D:\\a\\EcommerceAPI\\EcommerceAPI\\src\\ECommerce.Api\\obj\\",
+      "projectPath": "B:\\Work\\Amir - WebDev\\ECommerceApiCourse\\src\\ECommerce.Api\\ECommerce.Api.csproj",
+      "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+      "outputPath": "B:\\Work\\Amir - WebDev\\ECommerceApiCourse\\src\\ECommerce.Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\runneradmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
