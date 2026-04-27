@@ -1,6 +1,13 @@
-@ECommerce.Api_HostAddress = http://localhost:5126
+@ECommerce_Api_HostAddress = https://localhost:7267
 
-GET {{ECommerce.Api_HostAddress}}/weatherforecast/
+### Get API info
+GET {{ECommerce_Api_HostAddress}}/api/system/info
 Accept: application/json
 
-###
+### Echo route parameter only
+GET {{ECommerce_Api_HostAddress}}/api/system/echo/hello
+Accept: application/json
+
+### Echo route parameter and query string
+GET {{ECommerce_Api_HostAddress}}/api/system/echo/hello?name=Ali
+Accept: application/json

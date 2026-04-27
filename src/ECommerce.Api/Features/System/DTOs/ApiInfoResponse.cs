@@ -8,5 +8,7 @@ public class ApiInfoResponse
 
     public string EnvironmentName { get; set; } = string.Empty;
 
+    public string Status {get; set; } = string.Empty;
+
     public DateTime ServerTimeUtc { get; set; }
 }
